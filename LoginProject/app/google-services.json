@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798725779784",
+    "project_id": "loginsingnup-a2396",
+    "storage_bucket": "loginsingnup-a2396.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798725779784:android:d9a1d9673110e6cbda837d",
+        "android_client_info": {
+          "package_name": "com.example.rebelbob11.login_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798725779784-rrdt0nq0amkgovcrc6jvigoeshogfgr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVDUBvyAdddBSLvYw7qydVyoAUr4VukX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798725779784-rrdt0nq0amkgovcrc6jvigoeshogfgr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
